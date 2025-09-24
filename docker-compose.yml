@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  slayymombot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    volumes:
+      # Mount data directory for persistent storage
+      - ./data:/app/data
+      # Mount .env file for configuration
+      - ./.env:/app/.env:ro
+    environment:
+      # Set timezone
+      - TZ=UTC
+    # Healthcheck to ensure the bot is running
+    healthcheck:
+      test: ["CMD", "python", "-c", "import os; exit(0 if os.path.exists('/app/data') else 1)"]
+      interval: 1m
+      timeout: 10s
+      retries: 3
+      start_period: 30s

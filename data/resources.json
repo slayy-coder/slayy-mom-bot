@@ -1,0 +1,83 @@
+{
+    "communities": [
+        {
+            "name": "r/trans",
+            "url": "https://www.reddit.com/r/trans/",
+            "description": "Global transgender community on Reddit"
+        },
+        {
+            "name": "r/lgbtindia",
+            "url": "https://www.reddit.com/r/lgbtindia/",
+            "description": "LGBTQ+ community in India"
+        },
+        {
+            "name": "r/transmtf",
+            "url": "https://www.reddit.com/r/MtF/",
+            "description": "Community for trans women"
+        },
+        {
+            "name": "TWEET Foundation",
+            "url": "https://tweetindia.org/",
+            "description": "Trans Welfare Equity and Empowerment Trust — community support for trans people in India"
+        },
+        {
+            "name": "Nazariya",
+            "url": "https://www.nazariyaqfrg.org/",
+            "description": "Queer feminist resource group in India"
+        },
+        {
+            "name": "Sahodari Foundation",
+            "url": "http://www.sahodari.org/",
+            "description": "Indian foundation working for trans rights and empowerment"
+        }
+    ],
+    "youtube": [
+        {
+            "name": "Jammidodger",
+            "url": "https://www.youtube.com/c/Jammidodger94",
+            "description": "Trans educator and entertainer"
+        },
+        {
+            "name": "Contrapoints",
+            "url": "https://www.youtube.com/c/ContraPoints",
+            "description": "Video essays on gender, politics, and philosophy"
+        },
+        {
+            "name": "Alok Vaid-Menon",
+            "url": "https://www.youtube.com/@alokvmenon",
+            "description": "Non-binary author, poet, and speaker of Indian origin"
+        },
+        {
+            "name": "Sushant Divgikar / Rani KoHEnur",
+            "url": "https://www.youtube.com/@SushantDivgikarOfficial",
+            "description": "Indian drag performer, singer, and LGBTQIA+ activist"
+        }
+    ],
+    "support": [
+        {
+            "name": "Trevor Project",
+            "url": "https://www.thetrevorproject.org/",
+            "description": "Crisis intervention and suicide prevention for LGBTQ+ youth (US-based, some online support accessible worldwide)"
+        },
+        {
+            "name": "GLAAD",
+            "url": "https://www.glaad.org/",
+            "description": "Global media advocacy organization for LGBTQ+ acceptance"
+        },
+        {
+            "name": "iCall (TISS)",
+            "url": "https://icallhelpline.org/",
+            "description": "Indian mental health helpline offering LGBTQ+ friendly support"
+        },
+        {
+            "name": "Naz Foundation India",
+            "url": "http://www.nazindia.org/",
+            "description": "NGO working on HIV/AIDS and LGBTQ+ rights in India"
+        },
+        {
+            "name": "Varta Trust",
+            "url": "https://www.vartagensex.org/",
+            "description": "Indian trust providing LGBTQ+ resources, helplines, and support services"
+        }
+    ]
+}
